@@ -360,10 +360,10 @@ The following flags are defined:
 
   - `SPH_LITTLE_ENDIAN`
 
-When non-zero, sphlib assumes that its 32-bit-or-more integer type
-(respectively 64-bit-or-more integer type) has size _exactly_ 32 bits
-(respectively 64 bits), and is encoded in RAM with the little-endian
-convention.
+    When non-zero, sphlib assumes that its 32-bit-or-more integer type
+    (respectively 64-bit-or-more integer type) has size _exactly_ 32 bits
+    (respectively 64 bits), and is encoded in RAM with the little-endian
+    convention.
 
   - `SPH_BIG_ENDIAN`
 
